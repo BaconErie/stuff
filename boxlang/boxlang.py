@@ -1,2 +1,2 @@
 code = input('Input code here: ')
-print(code)
+print(code)qwe
